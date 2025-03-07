@@ -159,19 +159,3 @@ body {
     font-weight: 800;
     line-height: 1.5;
 }
-
-.attribution {
-    position: absolute;
-    bottom: 0;
-    font-size: 1.1rem;
-    text-align: center;
-
-}
-.attribution a { color: hsl(228, 45%, 44%); }
-
-
-
-
-
-
-
